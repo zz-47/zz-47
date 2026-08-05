@@ -1,16 +1,16 @@
-<div align="center">
+div align="center">
 
-```
-  ███████╗███████╗██╗    ██╗    ██╗  ██╗███████╗
-  ╚══███╔╝╚══███╔╝██║    ██║    ██║  ██║╚════██║
-    ███╔╝   ███╔╝ ██║    ██║    ███████║    ██╔╝
-   ███╔╝   ███╔╝  ██║    ██║    ╚════██║   ██╔╝ 
-  ███████╗███████╗███████║    ██║  ██║   ██║  
-  ╚══════╝╚══════╝╚══════╝    ╚═╝  ╚═╝   ╚═╝  
+```text
+███████╗███████╗      ██╗  ██╗███████╗
+╚══███╔╝╚══███╔╝      ██║  ██║╚════██║
+  ███╔╝   ███╔╝ █████╗███████║    ██╔╝
+ ███╔╝   ███╔╝  ╚════╝╚════██║   ██╔╝ 
+███████╗███████╗           ██║   ██║  
+╚══════╝╚══════╝           ╚═╝   ╚═╝  
 ```
 
 ### **ZEESHAN KAYANI**
-*Systems Cryptographer • Edge AI Architect • Bare-Metal Systems Optimizer*
+*Independent Researcher • Systems Cryptographer • Edge AI Architect*
 
 <br/>
 
@@ -37,11 +37,11 @@
 
 ---
 
-### ⚡ ARCHITECTURAL PARADIGM
+### ⚡ RESEARCH & ARCHITECTURAL PARADIGM
 
-I build system environments designed to operate inside hardware constraints, zero-trust cryptographic boundaries, and strict memory limits.
+Focused on engineering system environments designed to operate inside strict hardware constraints, zero-trust cryptographic boundaries, and isolated memory limits.
 
-```
+```text
                        ┌───────────────────────────────┐
                        │     HEADLESS DEBIAN NODE      │
                        │  Proxmox VE / tmpfs RAM-Disks │
@@ -68,27 +68,27 @@ I build system environments designed to operate inside hardware constraints, zer
 
 ---
 
-### 🗡️ CORE ENGINEERING MATRIX
+### 🗡️ CORE EXPERTISE & R&D MATRIX
 
-#### **01. Local SLM Optimization & Quantization**
-* Architecting memory-efficient Small Language Model (SLM) loading mechanisms using low-bit GGUF formats (2-bit to 4-bit) tailored for low-spec CPUs.
-* Enforcing aggressive context truncation and RAM-disk (`tmpfs`) caching to eliminate memory overflow and maximize throughput on legacy hardware.
+#### **01. Edge SLM Optimization & Quantization**
+* Investigating memory-efficient Small Language Model (SLM) execution architectures using low-bit GGUF formats (2-bit to 4-bit) tailored for standard CPU constraints.
+* Researching aggressive context truncation logic and RAM-disk (`tmpfs`) caching to eliminate memory overflow and isolate execution on legacy hardware.
 
-#### **02. Aegis Vault — Cryptographic Threat Engine**
-* Modular Python security architecture leveraging AES-GCM AEAD cryptographic primitives.
-* Integrates automated ransomware canary detection with a real-time input sanitization pipeline using N-gram overlap indexing and regex filters.
+#### **02. Applied Cryptography & Threat Engines**
+* Developing modular Python security pipelines leveraging Authenticated Encryption with Associated Data (AEAD) / AES-GCM primitives.
+* Studying automated ransomware canary detection mechanisms and real-time input sanitization using N-gram overlap indexing and regex validation.
 
 #### **03. Agentic Protocol Bridges & Forensics**
-* Constructing Model Context Protocol (MCP) servers to secure communication between isolated local inference endpoints and operational databases.
-* Engineered forensic data inspection pipelines executing Benford's Law anomaly detection over transaction distributions in tabular datasets.
+* Architecting Model Context Protocol (MCP) ecosystems to establish secure, local communication bridges between isolated inference endpoints.
+* Constructing forensic data inspection algorithms that execute Benford's Law anomaly detection over transaction distributions in tabular datasets.
 
 #### **04. Bare-Metal Infrastructure & Orchestration**
-* Configuring CLI-first, low-overhead environments using headless Debian Linux, custom Proxmox VE hypervisors, and isolated LXC containers.
-* Custom disk partitioning, kernel tuning, and RAM-disk storage routing for zero-telemetry operations.
+* Benchmarking CLI-first, low-overhead environments across headless Debian Linux, Proxmox VE hypervisors, and LXC container networks.
+* Evaluating custom disk partitioning, kernel tuning, and volatile storage routing for zero-telemetry, deterministic operations.
 
 ---
 
-### 💻 SYSTEM AUDIT LOG
+### 💻 SYSTEM & RESEARCH LOG
 
 ```gdb
 [0x00_HOST]      : HP G10 EliteBook // Headless Debian 12 (Bookworm)
@@ -98,7 +98,7 @@ I build system environments designed to operate inside hardware constraints, zer
 [0x04_MODEL_R&D] : Low-Bit GGUF (2-4 bit) • Private RAG • Model Context Protocol
 [0x05_DEVSPEC]   : C / C++ • Python • FastAPI • Flask • Bash • SQL
 
-[STATUS: ALL CORE SYSTEMS OPERATIONAL // ZERO TELEMETRY]
+[STATUS: ALL CORE R&D SYSTEMS OPERATIONAL // ZERO TELEMETRY]
 ```
 
 ---
@@ -108,16 +108,6 @@ I build system environments designed to operate inside hardware constraints, zer
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zz-47&theme=react-dark&hide_border=true&area=true" width="100%" alt="Zeeshan's GitHub Activity" />
 </p>
-
----
-
-### 💼 B2B CONSULTING & ENTERPRISE DEPLOYMENTS
-
-Available for high-ticket technical consulting, system architecture refactoring, and private AI infrastructure setup:
-
-* 🛡️ **On-Premise Private RAG:** Zero-data-leakage knowledge bases for compliance-sensitive operations.
-* 🔌 **MCP Integration:** Secure bridges connecting local LLM/SLM endpoints to live client databases.
-* ⚡ **Resource Optimization:** Refactoring compute pipelines to execute standard AI workloads on low-spec hardware.
 
 <div align="center">
 
