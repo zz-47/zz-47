@@ -1,37 +1,55 @@
-# Hi there, I'm Zeeshan Kayani 👋
+# <!-- Hides the header and helps with spacing -->
+#
+## 👋 Hello, I'm Zeeshan Kayani 
+### Independent Researcher | Edge AI & Cryptographic Systems Engineer
 
-**Independent Researcher & Edge AI Engineer** focused on constrained local architectures,
-low-bit GGUF quantization, and secure cryptographic systems.
+---
+
+## 🔬 Core Focus Areas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Model%20Quantization-GGUF%20%2F%20AWQ%20%2F%20EXL2-black?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Local%20RAG-R%26D-black?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Applied%20Crypto-Secure%20Primitives-black?style=for-the-badge&logo=codesandbox&logoColor=white" />
+</p>
+
+### 🛠️ Technical Proficiency
+
+* **Languages:** `Python (AI/R&D)` • `C/C++ (Performance)` • `Linux Shell (Infrastructure)`
+* **Inference R&D:** SLM deployment pipelines, low-bit quantization, and parameter-efficient fine-tuning (PEFT).
+* **Infrastructure:** Minimal Debian, Proxmox VE, LXC/Docker orchestration, and local MCP server implementation.
+* **Security:** Input sanitization, AEAD constructions, and cryptographic log verification.
+
+<br/>
+
+### 🎯 Current Operations
+* 🧠 Implementing low-overhead **Small Language Model (SLM)** pipelines for real-time edge processing.
+* 🔐 Designing **cryptographic verification layers** for multi-agent system workflows (MCP).
+* ⚙️ Optimizing local inference performance using quantization and memory-efficient architectures.
 
 ---
 
-## 🧭 About Me
-I build silent, high-performance systems that run entirely under the radar — no cloud
-dependency, no telemetry, no hand-holding. My work lives at the intersection of
-resource-constrained AI and robust security engineering: models that are small enough
-to run anywhere, yet smart enough to be useful.
+## 📊 Infrastructure & Dev Workflow Stats
 
-## ⚡ What I Focus On
-* **Edge AI & SLM Pipelines:** Architecting low-overhead local inference,
-  Retrieval-Augmented Generation (RAG), and parameter-efficient workflows.
-* **Cryptographic Systems:** Building secure encryption libraries, AEAD primitives,
-  and input sanitization layers.
-* **Infrastructure & Tooling:** Headless Debian, Docker/LXC containers, and Model
-  Context Protocol (MCP) multi-agent setups.
-
-## 🛠️ Tech Stack
-* **Languages:** Python, C/C++, SQL, HTML/CSS
-* **Frameworks & Libs:** FastAPI, Flask, custom local inference tooling
-* **Environments:** Linux, Proxmox, Git / GitLab Ultimate
-
-## 🗂️ Featured Projects
-> *(Add pinned repos / project links here)*
-
-## 📊 GitHub Stats
-![Zeeshan's GitHub stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=transparent&hide_border=true&count_private=true)
-
-## 📫 Let's Connect
-> *(Add your preferred contact channels here)*
+<p align="center">
+  <!-- GitHub Activity Stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zz-47&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Most Used Languages Stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zz-47&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</p>
 
 ---
-*Building silent, high-performance systems under the radar.*
+
+## 📫 Connect
+
+I am open to high-value **technical consulting** and **R&D collaborations** focused on private AI, edge engineering, and cryptographic systems.
+
+* **GitHub:** [@zz-47](https://github.com/zz-47)
+* **LinkedIn:** `Link to your profile here`
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-High%20Performance%20%2F%20Low%20Latency%20%2F%20Secure%20Output-white?style=flat" />
+</p>
