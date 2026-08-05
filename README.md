@@ -113,7 +113,7 @@ Focused on engineering system environments designed to operate inside strict har
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zeeshan-kayani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/zeeshan-kayani](https://www.linkedin.com/in/zeeshan-kayani-0a1459350/))
 [![GitLab](https://img.shields.io/badge/GitLab-Workspace-FC6D26?style=for-the-badge&logo=gitlab)](https://gitlab.com)
 
 <br/>
