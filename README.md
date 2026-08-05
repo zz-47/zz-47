@@ -33,25 +33,30 @@
 
 ---
 
-### 🏛️ Academic Trajectory & Open Source Operations
-
-*(A formal overview of ongoing academic transitions and infrastructure management supporting my research)*
-
-* **Educational Progression:** Recently completed HSSC-II Computer Science examinations under the Rawalpindi Board [cite: context]. Currently preparing technical artifacts and motivation statements for international higher education, with a primary focus on the Computer Science curriculum at the University of Luxembourg [cite: context].
-* **Open Source Infrastructure:** Securing enterprise-grade CI/CD pipelines; successfully verified for the GitLab for Open Source Program (July 2026), managing the `slm_engine` namespace under an Ultimate tier license [cite: context].
-* **Operational Management:** Structuring R&D workflows through a delegated administrative framework, coordinating project finance and operations with my sister to sustain long-term independent research [cite: context].
-* **Hardware-Constrained R&D:** Engineering constrained SLM and RAG architectures specifically optimized for legacy and low-spec edge environments, running natively on standard business hardware like the HP G10 EliteBook [cite: context].
-
----
-
-### 💻 System Specifications & Environment
+### 🖥️ Technical Execution & Applied Domain Experience
 
 ```bash
-# Target Infrastructure Metrics
-OS         : Debian 12 (Bookworm) / Proxmox VE
-Kernel     : Linux 6.x Headless
-Deployment : LXC Containers / RAM-Disks (tmpfs)
-Focus      : Low-Latency, Zero-Data-Leakage Local Processing
+# Executing Systems & Security Audit Log
+
+[0x01] LOW-BIT EDGE SLM ENGINE & QUANTIZATION
+├── Framework : Private SLM R&D Pipeline (GitLab Ultimate Workspace)
+├── Execution : Engineered low-bit GGUF quantization pipelines (2-bit to 4-bit) for CPU inference.
+├── Strategy  : Memory-mapped model loading with hardware-enforced context limits for edge runtime.
+└── Results   : Optimized zero-data-leakage local execution on legacy hardware specs.
+
+[0x02] APPLIED CRYPTOGRAPHY & THREAT DETECTION
+├── Core Security : Authenticated Encryption with Associated Data (AEAD) / AES-GCM
+├── Execution     : Implemented canary-based ransomware detection and integrity monitoring engines.
+└── Input Pipeline: Designed real-time sanitization logic using regex and N-gram overlap indexing.
+
+[0x03] AGENTIC BRIDGES & AUTOMATED FORENSICS
+├── Protocol : Model Context Protocol (MCP) Multi-Agent Architecture
+├── Execution: Constructed local API bridges linking client ports to isolated LLM/SLM endpoints.
+└── Forensics: Developed multi-agent financial pipelines applying Benford's Law to analyze CSV anomalies.
+
+[0x04] HEADLESS INFRASTRUCTURE & VIRTUALIZATION
+├── OS / Hypervisor: Headless Debian Linux / Proxmox VE / Custom LXC Containers
+└── Optimization   : Configured disk partitioning, tmpfs RAM-disks, and CLI-first system environments.
 ```
 
 ---
