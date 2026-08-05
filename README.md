@@ -33,35 +33,14 @@
 
 ---
 
-### 🔬 Core Architecture & Research
+### 🏛️ Academic Trajectory & Open Source Operations
 
-```
-  ┌─────────────────────────────────────────────────────────┐
-  │                   LOCAL EDGE INFERENCE                  │
-  │  ┌───────────────┐     ┌───────────────┐     ┌───────┐  │
-  │  │  Debian/LXC   │ ──> │ GGUF (2-4 bit)│ ──> │  SLM  │  │
-  │  └───────────────┘     └───────────────┘     └───────┘  │
-  └────────────────────────────┬────────────────────────────┘
-                               │
-                               ▼
-  ┌─────────────────────────────────────────────────────────┐
-  │               CRYPTOGRAPHIC CANARY VAULT                │
-  │  ┌───────────────┐     ┌───────────────┐     ┌───────┐  │
-  │  │ N-Gram Index  │ ──> │    AES-GCM    │ ──> │ Audit │  │
-  │  └───────────────┘     └───────────────┘     └───────┘  │
-  └─────────────────────────────────────────────────────────┘
-```
+*(A formal overview of ongoing academic transitions and infrastructure management supporting my research)*
 
-#### **1. Edge Inference Pipeline (`slm-engine`)**
-* Built memory-mapped local loading logic using low-bit GGUF quantizations for low-overhead CPUs.
-* Implemented context-truncation strategies to prevent memory overflow on legacy hardware.
-
-#### **2. Cryptographic Canary Vault (`Aegis Vault`)**
-* Modular Python security engine utilizing AES-GCM AEAD primitives.
-* Features real-time directory integrity checks and input sanitization pipelines via regex and N-gram overlap indexing.
-
-#### **3. Forensic Data Pipeline**
-* Autonomous multi-agent auditor using Benford's Law to analyze transaction distributions in CSV datasets for anomaly detection.
+* **Educational Progression:** Recently completed HSSC-II Computer Science examinations under the Rawalpindi Board [cite: context]. Currently preparing technical artifacts and motivation statements for international higher education, with a primary focus on the Computer Science curriculum at the University of Luxembourg [cite: context].
+* **Open Source Infrastructure:** Securing enterprise-grade CI/CD pipelines; successfully verified for the GitLab for Open Source Program (July 2026), managing the `slm_engine` namespace under an Ultimate tier license [cite: context].
+* **Operational Management:** Structuring R&D workflows through a delegated administrative framework, coordinating project finance and operations with my sister to sustain long-term independent research [cite: context].
+* **Hardware-Constrained R&D:** Engineering constrained SLM and RAG architectures specifically optimized for legacy and low-spec edge environments, running natively on standard business hardware like the HP G10 EliteBook [cite: context].
 
 ---
 
