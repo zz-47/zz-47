@@ -8,9 +8,9 @@
 ## 🔬 Core Focus Areas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Local%20Inference-SLM%20%2F%20GGUF%20Quantization-black?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/Architecture-Private%20RAG%20%2F%20MCP-black?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Applied%20Crypto-AEAD%20%2F%20Sanitization-black?style=for-the-badge&logo=codesandbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Local_Inference-SLM_%2F_GGUF_Quantization-000000?style=for-the-badge&logo=cpu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Architecture-Private_RAG_%2F_MCP-000000?style=for-the-badge&logo=diagram-next&logoColor=white" />
+  <img src="https://img.shields.io/badge/Applied_Crypto-AEAD_%2F_Sanitization-000000?style=for-the-badge&logo=shieldcheck&logoColor=white" />
 </p>
 
 ### 💻 Technical Profile & Stack
@@ -35,7 +35,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/zz-47?label=Followers&style=for-the-badge&color=0d1117&logo=github" />
   <img src="https://img.shields.io/github/stars/zz-47?label=Total%20Stars&style=for-the-badge&color=0d1117&logo=github" />
-  <img src="https://img.shields.io/github/search/zz-47/zz-47?label=Repositories&style=for-the-badge&color=0d1117&logo=github" />
+  <img src="https://img.shields.io/badge/Repositories-Public-0d1117?style=for-the-badge&logo=github" />
 </p>
 
 <p align="center">
@@ -46,14 +46,14 @@
 
 ## 💼 Consulting & Services
 
-I provide specialized technical consulting for enterprises, agencies, and SaaS firms looking to deploy secure, on-premise AI infrastructure:
+I provide specialized technical consulting for enterprise clients, agencies, and SaaS firms looking to deploy secure, on-premise AI infrastructure:
 
 * **Private RAG & Local AI Deployment:** Zero-data-leakage enterprise search and internal knowledge bases.
 * **MCP Integration:** Connecting private LLM/SLM endpoints securely to operational databases and APIs.
 * **System Optimization:** Refactoring high-overhead pipelines for legacy or low-spec Linux infrastructure.
 
 * **GitHub:** [@zz-47](https://github.com/zz-47)
-* **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/zeeshan-kayani) *(Update with your exact URL)*
+* **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/zeeshan-kayani)
 
 ---
 
