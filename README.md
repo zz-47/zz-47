@@ -4,22 +4,24 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/zeeshan-kayani-0a1459350/"><img src="https://img.shields.io/badge/LinkedIn-CONNECT-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
-<a href="https://zenodo.org/records/21815214"><img src="https://img.shields.io/badge/Zenodo-10.5281%2Fzenodo.21815214-0d1117?style=for-the-badge&logo=zenodo&logoColor=168DEE" alt="Zenodo DOI"/></a>
-<a href="https://gitlab.com"><img src="https://img.shields.io/badge/GitLab-WORKSPACE-0d1117?style=for-the-badge&logo=gitlab&logoColor=FC6D26" alt="GitLab"/></a>
-<a href="https://github.com/zz-47"><img src="https://img.shields.io/badge/GitHub-zz--47-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/zeeshan-kayani-0a1459350/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="44" height="44" alt="LinkedIn"/></a>
+<a href="https://zenodo.org/records/21815214"><img src="https://cdn.simpleicons.org/zenodo/168DEE" width="44" height="44" alt="Zenodo"/></a>
+<a href="https://gitlab.com"><img src="https://cdn.simpleicons.org/gitlab/FC6D26" width="44" height="44" alt="GitLab"/></a>
+<a href="https://github.com/zz-47"><img src="https://cdn.simpleicons.org/github/9aa7b8" width="44" height="44" alt="GitHub"/></a>
+
+<br/><br/>
+
+<a href="https://isocpp.org"><img src="https://cdn.simpleicons.org/cplusplus/00599C" width="40" height="40" alt="C++"/></a>
+<a href="https://www.python.org"><img src="https://cdn.simpleicons.org/python/3776AB" width="40" height="40" alt="Python"/></a>
+<a href="https://fastapi.tiangolo.com"><img src="https://cdn.simpleicons.org/fastapi/009688" width="40" height="40" alt="FastAPI"/></a>
+<a href="https://www.postgresql.org"><img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40" height="40" alt="PostgreSQL"/></a>
+<a href="https://www.debian.org"><img src="https://cdn.simpleicons.org/debian/A81D33" width="40" height="40" alt="Debian"/></a>
+<a href="https://www.kernel.org"><img src="https://cdn.simpleicons.org/linux/FCC624" width="40" height="40" alt="Linux"/></a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/C%2B%2B-LOW_LEVEL-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C"/>
-<img src="https://img.shields.io/badge/Python-R%26D_%2F_INFERENCE-0d1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/FastAPI-API_GATEWAYS-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688"/>
-<img src="https://img.shields.io/badge/PostgreSQL-DATA_PIPELINES-0d1117?style=for-the-badge&logo=postgresql&logoColor=336791"/>
-<br/>
-<img src="https://img.shields.io/badge/Debian-HEADLESS_12-0d1117?style=for-the-badge&logo=debian&logoColor=A81D33"/>
-<img src="https://img.shields.io/badge/Linux-tmpfs_RAM_DISKS-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-<img src="https://img.shields.io/badge/GGUF-2--4_BIT_QUANT-0d1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MCP-LOCAL_BRIDGES-0d1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GGUF-2--4_BIT-0d1117?style=flat-square" alt="GGUF"/>
+<img src="https://img.shields.io/badge/MCP-LOCAL_BRIDGES-0d1117?style=flat-square" alt="MCP"/>
 
 </div>
 
@@ -90,7 +92,7 @@ I study the mathematics of Small Language Models the way an engineer must — de
 
 A research archive is recorded under a live DOI:
 
-<a href="https://zenodo.org/records/21815214"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21815214-0d1117?style=flat-square&logo=zenodo&logoColor=168DEE" alt="Zenodo DOI"/></a>
+<a href="https://zenodo.org/records/21815214"><img src="https://cdn.simpleicons.org/zenodo/168DEE" width="30" height="30" alt="Zenodo DOI"/> 10.5281/zenodo.21815214</a>
 
 ---
 
