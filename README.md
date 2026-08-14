@@ -27,7 +27,7 @@
 
 ## Research Focus
 
-I study the mathematics of Small Language Models the way an engineer must — derived from first principles, then **measured against the real checkpoint**, never assumed from a spec sheet. The work sits at the intersection of constrained hardware, zero-trust cryptography, and deterministic local inference.
+I perform case studies on mathematics and concepts behind Small Language Models — derived from first principles, then **measured against the real checkpoint**, never assumed from a spec sheet. The work sits at the intersection of constrained hardware, zero-trust cryptography, and deterministic local inference.
 
 ---
 
