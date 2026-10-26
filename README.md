@@ -94,6 +94,13 @@ A research archive is recorded under a live DOI:
 
 ---
 
+## identification
+
+* **Principal Architect:** Muhammad Zeeshan Kayani
+* **Verification Email:** 786roshaan007@gmail.com
+* **ORCID Matrix:** [0009-0007-6506-1516](https://orcid.org)
+* **Core Artifacts:** [Zenodo 10.5281/zenodo.23310745](https://doi.org) | [seal-vault](https://github.com)
+
 ## Activity
 
 <div align="center">
